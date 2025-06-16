@@ -25,7 +25,7 @@
 ## 🎬 Demo Video
 ![](./demo.png)
 
-[点击观看完整演示](./streamlit-app-demo.webm)
+👉 [点击这里在线播放演示](https://github.com/fancccc/CM-DAC-StreamlitWeb/video.html)
 
 ## 📦 项目目录结构
 
