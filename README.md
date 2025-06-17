@@ -9,7 +9,7 @@
 * 📌 支持自定义或自动设置图像中心点进行裁剪
 * 🔢 集成已训练 PyTorch 模型进行类别预测
 * 🌐 上传并添加临床信息实现多模态输入
-* 🔗 TRAIN CODES: [CM-DAC](https://github.com/fancccc/CM-DAC.git)
+* 🔗 TRAIN CODES: [LungCancerDC](https://github.com/fancccc/LungCancerDC.git), [CM-DAC](https://github.com/fancccc/CM-DAC.git)
 ---
 
 ## 📊 功能精要
